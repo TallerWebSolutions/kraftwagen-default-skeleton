@@ -51,7 +51,7 @@ projects[adminimal_admin_menu][subdir] = contrib
 
 ; Configuration management
 
-projects[features][version] = 1.0
+projects[features][version] = 2.7
 projects[features][subdir] = contrib
 
 projects[configuration][version] = 2.x-dev
